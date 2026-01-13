@@ -7,18 +7,6 @@ el movimiento del pato y la acción de disparo, manteniendo un estilo retro.
 
 -El proyecto representa un avance inicial y no una versión final del videojuego.
 
-## Paradigma Utilizado
-Se utilizó Programación Estructurada, organizando el código mediante funciones y variables.
-Este enfoque permite una comprensión clara del flujo del programa y facilita el aprendizaje
-de los conceptos básicos de desarrollo de videojuegos.
-
-## Instalación y Ejecución
-1. Instalar Python 3.
-2. Instalar la librería Pygame ejecutando:
-   pip install pygame
-3. Ejecutar el juego con:
-   python main.py
-
 ## Controles
 El juego está diseñado para ser utilizado con un mando clásico de Nintendo, reforzando la
 experiencia retro del videojuego.
@@ -27,7 +15,7 @@ experiencia retro del videojuego.
 - Botón A: Disparo
 
 De forma alternativa, el juego también puede controlarse mediante teclado:
-- Flechas izquierda/derecha: Movimiento
+- Clásica combinacion: w/a/s/d : Movimiento
 - Barra espaciadora: Disparo
 
 ## Explicación del Código
